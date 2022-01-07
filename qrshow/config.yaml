@@ -2,7 +2,7 @@ name: hs-qr-code-show
 version: '1.0.0'
 slug: qrshow
 description: This addon provides a server runnning qrcode.show to create and display qrCodes on request.
-url: "https://github.com/Hypercookie/hs-qrcode.show"
+url: "https://github.com/Hypercookie/hs-addons/tree/main/qrshow"
 arch:
   - armhf
   - armv7
