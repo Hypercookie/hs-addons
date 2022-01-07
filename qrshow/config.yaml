@@ -13,4 +13,4 @@ ports:
   8080/tcp: 9999
 ports_description:
   8080/tcp: 'The Web Access (Display for QR Codes)'
-image: "ghcr.io/Hypercookie/{arch}-qrshow"
+image: "ghcr.io/hypercookie/{arch}-qrshow"
