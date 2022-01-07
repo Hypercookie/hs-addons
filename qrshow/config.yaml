@@ -10,7 +10,7 @@ arch:
   - amd64
   - i386
 ports:
-  80/tcp: 9999
+  8080/tcp: 9999
 ports_description:
-  80/tcp: 'The Web Access (Display for QR Codes)'
+  8080/tcp: 'The Web Access (Display for QR Codes)'
 image: "ghcr.io/Hypercookie/{arch}-qrshow"
