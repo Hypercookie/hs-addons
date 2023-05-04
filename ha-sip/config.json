@@ -11,7 +11,7 @@
         "armv7",
         "i386"
     ],
-    "image": "agellhaus/{arch}-ha-sip",
+    "image": "ghcr.io/hypercookie/{arch}-ha-sip",
     "init": "false",
     "startup": "application",
     "boot": "auto",
